@@ -1,5 +1,4 @@
-[
- {
+{
     name: "Joshua v Dubois",
     image: {
       uri: "https://blackpandan.github.io/ticketSiteHub/show1.webp",
@@ -27,5 +26,4 @@
     },
     category: "Theatre",
   },
-  }
-]
+ }
