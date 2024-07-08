@@ -1,29 +1,31 @@
-{
-    name: "Joshua v Dubois",
-    image: {
-      uri: "https://blackpandan.github.io/ticketSiteHub/show1.webp",
+[
+    {
+    "name": "Joshua v Dubois",
+
+    "image": {
+      "uri": "https://blackpandan.github.io/ticketSiteHub/show1.webp"
     },
-    category: "Boxing",
+    "category": "Boxing"
   },
   {
-    name: "Ms. Lauryn Hill & The Fugees",
-    image: {
-      uri: "https://blackpandan.github.io/ticketSiteHub/show2.webp",
+    "name": "Ms. Lauryn Hill & The Fugees",
+    "image": {
+      "uri": "https://blackpandan.github.io/ticketSiteHub/show2.webp"
     },
-    category: "Hip Hop",
+    "category": "Hip Hop"
   },
   {
-    name: "Swiftogeddon",
-    image: {
-      uri: "https://blackpandan.github.io/ticketSiteHub/swiftogeddon.webp",
+    "name": "Swiftogeddon",
+    "image": {
+      "uri": "https://blackpandan.github.io/ticketSiteHub/swiftogeddon.webp"
     },
-    category: "Club Night",
+    "category": "Club Night"
   },
   {
-    name: "Juno and the Paycock",
-    image: {
-      uri: "https://blackpandan.github.io/ticketSiteHub/show4.webp",
+    "name": "Juno and the Paycock",
+    "image": {
+      "uri": "https://blackpandan.github.io/ticketSiteHub/show4.webp"
     },
-    category: "Theatre",
-  },
- }
+    "category": "Theatre"
+  }
+]
