@@ -1,10 +1,10 @@
 [
 {
-    "name": "Taylor Swift | The Eras Tour",
-    "date": "Sat, Jul 13",
-    "time": "19:00",
-    "location": "San Siro Stadium, Milan",
-    "amount": 2,
+    "name": "Cheleas vs Inter Milan",
+    "date": "Sun, August 11",
+    "time": "03:00",
+    "location": "Stamford Bridge Stadium",
+    "amount": ,
     "image": {
       "uri": "https://blackpandan.github.io/ticketSiteHub/erastourbanner.jpeg"
     }
@@ -16,7 +16,7 @@
     "location": "San Siro Stadium, Milan",
     "amount": 2,
     "image": {
-      "uri": "https://blackpandan.github.io/ticketSiteHub/erastourbanner.jpeg"
+      "uri": "https://blackpandan.github.io/ticketSiteHub/chelseainter.jpg"
     }
 }
 ]
