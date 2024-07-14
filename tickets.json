@@ -1,12 +1,32 @@
 [
   {
-    "sec": "219",
-    "row": "5",
-    "seat": 13
+    "sec": "west stand lower 4",
+    "row": "16",
+    "seat": 29
   },
   {
-    "sec": "219",
-    "row": "5",
-    "seat": 14
-  }
+    "sec": "west stand lower 4",
+    "row": "16",
+    "seat": 30
+  },
+    {
+    "sec": "west stand lower 4",
+    "row": "16",
+    "seat": 31
+  },
+  {
+    "sec": "west stand lower 4",
+    "row": "16",
+    "seat": 32
+  },
+    {
+    "sec": "west stand lower 4",
+    "row": "16",
+    "seat": 33
+  },
+  {
+    "sec": "west stand lower 4",
+    "row": "16",
+    "seat": 34
+  },
 ]
